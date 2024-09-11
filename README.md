@@ -8,8 +8,6 @@ WeatherApp is a Java-based web application designed to provide real-time weather
 - JavaServer Pages (JSP)
 - HTML
 - CSS
-- JavaScript
-- Gson library for JSON parsing
 - OpenWeatherMap API
 
 ---
@@ -17,10 +15,9 @@ WeatherApp is a Java-based web application designed to provide real-time weather
 This version focuses on the **description**, **technologies used**, and includes your name as the creator in the repository itself, without any further setup instructions or features. Let me know if this works for you!
 
 ## Screenshots
-![WeatherApp Screenshot](screenshots/1l.jpeg)
+![WeatherApp Screenshot](Screenshot/1l.png)
 
-![WeatherApp Screenshot](screenshots/2l.jpeg)
+![WeatherApp Screenshot](Screenshot/2l.png)
 
-![WeatherApp Screenshot](screenshots/3s.jpeg)
 
 
